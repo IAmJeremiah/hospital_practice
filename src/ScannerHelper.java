@@ -20,4 +20,4 @@ public class ScannerHelper {
     public static Scanner scan() {
         return new Scanner(System.in);
     }
-}
+};
